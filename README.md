@@ -2,6 +2,7 @@
 
 This repository contains the official implementation for **Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**. 
 
+### [Project Page](https://temporalscorerescaling.github.io/) | [arXiv](https://arxiv.org/pdf/2510.01184)
 
 ## Introduction
 
@@ -14,7 +15,7 @@ distribution than the training distribution. We validate its effectiveness on 2D
 
 **TSR** is compatible with [Diffusers](https://github.com/huggingface/diffusers), making it easy to integrate into a wide range of existing codebases. 
 
-We provide an example of text-to-image generation with both [Stable Diffusion 2](https://huggingface.co/stabilityai/stable-diffusion-2) and [Stable Diffusion 3](https://huggingface.co/stabilityai/stable-diffusion-3-medium). For a demonstration, please refer to t2img_demo.ipynb.
+We provide an example of text-to-image generation with both [Stable Diffusion 2](https://huggingface.co/stabilityai/stable-diffusion-2) and [Stable Diffusion 3](https://huggingface.co/stabilityai/stable-diffusion-3-medium). For a demonstration, please refer to [t2img_demo.ipynb](https://github.com/temporalscorerescaling/TSR/blob/main/t2img_demo.ipynb).
 
 ![sd3](assets/SD3_gen.png)
 
