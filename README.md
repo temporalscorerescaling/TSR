@@ -1,8 +1,10 @@
 # Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models
 
-Yanbo Xu, Yu Wu, Sungjae Park, Zhizhou Zhou, Shubham Tulsiani
+### [Yanbo Xu](https://yanboxu.netlify.app/)\*, [Yu Wu](https://lucas-707.github.io/)\*, [Sungjae Park](https://rureadyo.github.io/), [Zhizhou Zhou](https://www.zhiz.dev/), [Shubham Tulsiani](https://shubhtuls.github.io/)
 
-**ICML 2026**
+**equal contribution*
+
+### **ICML 2026**
 
 ### [Project Page](https://temporalscorerescaling.github.io/) | [arXiv](https://arxiv.org/pdf/2510.01184)
 
