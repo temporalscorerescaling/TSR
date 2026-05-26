@@ -1,8 +1,11 @@
-# TSR
+# Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models
 
-This repository contains the official implementation for **Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models**. 
+Yanbo Xu, Yu Wu, Sungjae Park, Zhizhou Zhou, Shubham Tulsiani
+
+**ICML 2026**
 
 ### [Project Page](https://temporalscorerescaling.github.io/) | [arXiv](https://arxiv.org/pdf/2510.01184)
+
 
 ## Introduction
 
@@ -72,5 +75,16 @@ python toy_train.py --data "swissroll" --model_type "diffusion"
 
 # Train flow model on swissroll Dataset
 python toy_train.py --data "swissroll" --model_type "flow" 
+```
+
+## Citation
+
+```bibtex
+@inproceedings{xu2026temporal,
+  title={Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models},
+  author={Xu, Yanbo and Wu, Yu and Park, Sungjae and Zhou, Zhizhou and Tulsiani, Shubham},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2026}
+}
 ```
 
