@@ -1,6 +1,6 @@
 # Temporal Score Rescaling for Temperature Sampling in Diffusion and Flow Models
 
-### [Yanbo Xu](https://yanboxu.netlify.app/)\*, [Yu Wu](https://lucas-707.github.io/)\*, [Sungjae Park](https://rureadyo.github.io/), [Zhizhou Zhou](https://www.zhiz.dev/), [Shubham Tulsiani](https://shubhtuls.github.io/)
+### [Yanbo Xu](https://yanboxu.com/)\*, [Yu Wu](https://lucas-707.github.io/)\*, [Sungjae Park](https://rureadyo.github.io/), [Zhizhuo Zhou](https://www.zhiz.dev/), [Shubham Tulsiani](https://shubhtuls.github.io/)
 
 **equal contribution*
 
